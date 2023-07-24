@@ -1,5 +1,6 @@
 # Backup-file
 This script using bash to backup file inside unix system. and tested it using cronjob..
+using 2 args ./backup.sh /file-backup /destination-backup
 ![2023-07-24 22 40 52 labs cognitiveclass ai e4856a05e435](https://github.com/Kiessen/Backup-file/assets/33624476/e3498a06-b514-4fc2-9e05-82568186fa59)
 
 output
